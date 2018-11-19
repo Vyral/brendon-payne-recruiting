@@ -6,8 +6,8 @@ permalink: /strategy-call/
 
 <div class="recruiting-page">
 <h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
-<h5 class="join-us-subtitle">Are you a motivated real estate agent wanting to build a profitable real estate career in Myrtle Beach and the surrounding areas?</h5>
-
+<h5 class="join-us-subtitle">Are you a motivated real estate agent wanting to build a profitable real estate career in Charleston and the surrounding areas?</h5>
+<!--
 <p>Dear Future Top Agent:</p>
 
 <p>Would you like a business plan and blueprint that can help you get on a production fast track?</p>
@@ -68,7 +68,7 @@ I’m so glad I did it without being tainted by other “easier get rich quick�
 
 <p>Furthermore, in order to make our meeting more productive, I will email you a simple questionnaire to fill out so I can better advise you on business building strategies.</p>
 
-<p>I look forward to helping your grow your business.</p>
+<p>I look forward to helping your grow your business.</p> -->
 
 <h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
 <h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>

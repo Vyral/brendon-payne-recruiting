@@ -80,7 +80,7 @@ permalink: /join-our-team/
 
 <p>Regards,</p>
 
-<p>Greg Harrelson</p>
+<p>Brendon Payne</p>
 
 
 

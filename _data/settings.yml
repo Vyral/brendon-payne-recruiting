@@ -1,6 +1,6 @@
 audit_header: false
-title: Myrtle Beach's Best Real Estate Training
-description: Greg Harrelson, a top Real Estate Agent in Myrtle Beach, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Charleston's Best Real Estate Training
+description: Brendon Payne, a top Real Estate Agent in Charleston, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -11,35 +11,25 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-  - title: Our Vision
-    url: /vision/
-  - title: Videos
-    url: /videos
-  - title: Business Plan
-    url: /business-plan/
 
 client:
-  name: Greg Harrelson
+  name: Brendon Payne
   title:
   license_number:
   about_markdown: |
-    Greg Harrelson has helped more people buy or sell in the Myrtle Beach market than any other agent in the past 15 years. To accomplish this, Greg Harrelson has dedicated himself to hard work and a relentless pursuit to being the most knowledgeable agent in the market and tops in the country.
+    Brendon is originally from Central Illinois, just outside of Chicago.  After Graduating College, Brendon worked his way up the Management Ranks within the Loss Prevention and Safety Departments of 2 Global retailers.  In 2005 Brendon moved forward with his plan to help Sellers make the best decisions regarding what is typically one of their largest investments.  In a very short period of time he became one of the top producing agents on the Grand Strand, and is currently selling over 100 properties per year and is ranked in the top 1% of agents Nationwide and in the Top 50 Century 21 Agents in America.
 
-    Greg is a former coach for The Mike Ferry Organization and has helped many agents reach top producer status selling 100, 200 and more homes per year.
-
-    One of the Greg’s greatest accomplishments is being #1 in the country for Highest Production Per Agent in the country. In order to achieve this, Greg had to commit his time and effort to developing real estate agents within his organization. He is known to be the go-to coach for high production results.
-
-    He has created a productive environment that allows agents to grow their business fast and in a sustainable manner while maintaining a positive team-like culture within the organization.
-  market: Myrtle Beach
-  brand: The Harrelson Group
+     Because of a very diverse business background he is able to quickly analyze a client's goals and help them establish a timeline and strategies that will help them accomplish the financial goals they have set for themselves.  In his own words he says: "To me, it's more important to figure out what the client is trying to accomplish, big picture, and then determine whether buying or selling will help them get there. Too many agents focus on themselves and getting the commission check.  Somewhere in those situations, the client and their needs get left behind.  Bottom line: My goal is to provide Facts, Strategies, and Results and get the client where they want to be.
+  market: Charleston
+  brand: The Brendon Payne Team
   brokerage: Century 21
-  address: 4999 Carolina Forest Blvd, Ste. 18<br>Myrtle Beach, SC 29579
+  address:  4999 Carolina Forest Blvd, Ste 18<br>Myrtle
   phone: 843-903-3550
-  phone_type: Office
-  phone2: 843-457-7816
-  phone2_type: Cell
-  email: gregharrelson@gmail.com
-  url: http://www.c21TheHarrelsonGroup.com
+  phone_type:
+  phone2:
+  phone2_type:
+  email: bpaynesells@yahoo.com
+  url: http://www.brendonpayne.com
 
 lender:
   show_section: false
@@ -55,11 +45,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/MyrtleBeachsTopAgentMastermind/
-  linkedin_url: https://www.linkedin.com/in/gregharrelson/
-  gplus_url:
-  youtube_url: https://www.youtube.com/user/MyrtleBeachProperty
-  twitter_url: https://twitter.com/Gregharrelson
+  facebook_url:
+  linkedin_url:
+  youtube_url:
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -68,13 +57,13 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Myrtle Beach Real Estate Podcast with Greg Harrelson'
+  title: 'Charleston Real Estate Podcast with Brendon Payne'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Myrtle Beach Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Harrelson Group - your professional Myrtle Beach Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Greg Harrelson'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Charleston Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brendon Payne Team - your professional Charleston Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Brendon Payne'
 
 images:
   client_headshot_path: /img/headshot.JPG
@@ -82,13 +71,13 @@ images:
   hero_logo_path2: /img/logo2.png
   hero_logo_path3: /img/logo3.png
   logo_width_number: 50
-  hero_text: Myrtle Beach Real Estate Video Blog
+  hero_text: Charleston Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#BDAE85'
-  theme_color: '#404042'
+  brand_color: '#008dcc'
+  theme_color: '#6e7e88'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
