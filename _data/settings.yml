@@ -119,11 +119,11 @@ images:
   hero_logo_path3: /img/logo3.png
   logo_width_number: 50
   hero_text: Charleston Real Estate Video Blog
-  hero_background_hex: '#999999'
+  hero_background_hex: '#012a4f'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#beb18b'
+  brand_color: '#b40101'
   theme_color: '#252526'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -134,7 +134,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#ffffff'
+  shadow_color: rgb(1,42,79)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10

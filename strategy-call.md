@@ -5,9 +5,9 @@ permalink: /strategy-call/
 ---
 
 <div class="recruiting-page">
+<!--
 <h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
 <h5 class="join-us-subtitle">Are you a motivated real estate agent wanting to build a profitable real estate career in Charleston and the surrounding areas?</h5>
-<!--
 <p>Dear Future Top Agent:</p>
 
 <p>Would you like a business plan and blueprint that can help you get on a production fast track?</p>
