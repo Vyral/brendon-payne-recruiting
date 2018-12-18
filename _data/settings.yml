@@ -1,6 +1,9 @@
 audit_header: false
 title: Charleston's Best Real Estate Training
-description: Brendon Payne, a top Real Estate Agent in Charleston, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: >-
+  Brendon Payne, a top Real Estate Agent in Charleston, shares his own internal
+  real estate agent training for free. His Real Estate Training, Tips and Advice
+  will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -11,45 +14,72 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
 client:
   name: Brendon Payne
   title:
   license_number:
-  about_markdown: |
-    Century 21 Expert Advisors is part of our Century 21 Harrelson Group Family.  The Harrelson Group has been one of the Top Performing Real Estate Firms in the Southeast for years and we’re currently Ranked in the Top 10 offices within the entire Century 21 System.
+  about_markdown: >-
+    Century 21 Expert Advisors is part of our Century 21 Harrelson Group Family.
+    The Harrelson Group has been one of the Top Performing Real Estate Firms in
+    the Southeast for years and we’re currently Ranked in the Top 10 offices
+    within the entire Century 21 System.
 
-    My Business Partner and original Real Estate Coach Greg Harrelson and I were consistently selling 150+ properties each year with our own teams, and we wanted to expand access to the systems and coaching opportunities that we know help agents grow their business.   In 2014 we launched Century 21 Expert Advisors.
 
-    We knew there was a niche of agents in the Charleston Market that we could serve.  We set out to be the best solution for agents that are committed to reaching their financial goals by growing their business.  Our goal will never be to have a 200 agent office.  We want to know each one of our agents personally, so we can connect with their goals and help them achieve levels of success they never knew were possible.   We also know that many times agents are lured into the smaller boutique offices because they don’t want to simply be another license # for the office they choose, but often times they find themselves sacrificing the systems and support with the smaller offices because with smaller operations it can be difficult for the ownership and management to re-invest in tools for their agents.
+    My Business Partner and original Real Estate Coach Greg Harrelson and I were
+    consistently selling 150+ properties each year with our own teams, and we
+    wanted to expand access to the systems and coaching opportunities that we
+    know help agents grow their business. In 2014 we launched Century 21 Expert
+    Advisors.
 
-    We are committed to offering the best of both worlds to our agents.  We’re a smaller close knit group where you get the family and team atmosphere, along with one on one coaching from our leadership team (including Greg and I).  Better yet, because our office is part of The Harrelson Group Family we also offer world class technology, training, ongoing coaching and systems that you will not find with any other office in the Charleston Market that is our size.  WE GUARANTEE IT!
 
-    If you want to be more than a number in your office, if you want to grow YOUR BRAND, and YOUR NAME in this market instead of being on someone’s “TEAM” and helping make their dreams come true, or if you simply know you’re committed to being successful in this business and just haven’t found the right fit, let’s talk.
+    We knew there was a niche of agents in the Charleston Market that we could
+    serve. We set out to be the best solution for agents that are committed to
+    reaching their financial goals by growing their business. Our goal will
+    never be to have a 200 agent office. We want to know each one of our agents
+    personally, so we can connect with their goals and help them achieve levels
+    of success they never knew were possible. We also know that many times
+    agents are lured into the smaller boutique offices because they don’t want
+    to simply be another license # for the office they choose, but often times
+    they find themselves sacrificing the systems and support with the smaller
+    offices because with smaller operations it can be difficult for the
+    ownership and management to re-invest in tools for their agents.
 
+
+    We are committed to offering the best of both worlds to our agents. We’re a
+    smaller close knit group where you get the family and team atmosphere, along
+    with one on one coaching from our leadership team (including Greg and I).
+    Better yet, because our office is part of The Harrelson Group Family we also
+    offer world class technology, training, ongoing coaching and systems that
+    you will not find with any other office in the Charleston Market that is our
+    size. WE GUARANTEE IT!
+
+
+    If you want to be more than a number in your office, if you want to grow
+    YOUR BRAND, and YOUR NAME in this market instead of being on someone’s
+    “TEAM” and helping make their dreams come true, or if you simply know you’re
+    committed to being successful in this business and just haven’t found the
+    right fit, let’s talk.
   market: Charleston
   brand: Century 21 Expert Advisors
   brokerage:
-  address:  1124 Sam Rittenberg Ste 5<br>Charleston, SC 29407
-  phone: 843-222-5771
+  address: '1124 Sam Rittenberg Ste 5<br>Charleston, SC 29407'
+  phone: (843) 222-5771
   phone_type:
   phone2:
   phone2_type:
   email: brendonppayne@gmail.com
-  url: http://www.c21charlestonrealestate.com
-
+  url: 'http://www.c21charlestonrealestate.com'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
   facebook_url:
@@ -62,16 +92,26 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Charleston Real Estate Podcast with Brendon Payne'
-  categories: Education
+  title: Charleston Real Estate Podcast with Brendon Payne
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Charleston Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Century 21 Expert Advisors - your professional Charleston Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Brendon Payne'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Charleston
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Century 21 Expert Advisors - your
+    professional Charleston Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Charleston, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Brendon Payne
 images:
   client_headshot_path: /img/headshot.JPG
   hero_logo_path: /img/logo.png
@@ -79,7 +119,7 @@ images:
   hero_logo_path3: /img/logo3.png
   logo_width_number: 50
   hero_text: Charleston Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -88,22 +128,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: '#ffffff'
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
