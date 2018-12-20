@@ -25,7 +25,7 @@ permalink: /join-our-team/
 
 <p>Going into real estate can feel either like the best or the worst career move you’ve ever made. So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent.</p>
 
-<p><strong>My name is Greg Harrelson and I have been passionately developing real estate top producers for 20+ years.</strong> Not only have I personally sold hundreds of properties per year, but I have also helped numerous agents sell 100, 200 and more properties per year by coaching them on the systems and strategies that it takes to build a great business. No matter what your goals are, whether it be 20 deals per year or 300, I have the experience and resources to get you there.</p>
+<p><strong>My name is Brendon Payne, and my partner, Greg Harrelson, and I have been passionately developing real estate top producers for 20+ years. Not only have we personally sold hundreds of properties per year, but we have also helped numerous agents sell 100, 200 and more properties per year by coaching them on the systems and strategies that it takes to build a great business. No matter what your goals are, whether it be 20 deals per year or 300, we have the experience and resources to get you there.</p>
 
 <p>I am looking for an agent that has the desire to take their business to the next level—an agent who knows they can do more but needs to be pointed in the right direction so they can reach their goals with less resistance. I am looking for an agent that wants to be a true professional, and someone who is competitive and is committed to doing things the right way.</p>
 
