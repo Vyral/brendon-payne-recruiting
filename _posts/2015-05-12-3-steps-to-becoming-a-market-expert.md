@@ -9,7 +9,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/payne-market-expert.jpg
 youtube_code: DDhV35AIpzQ
 ---
