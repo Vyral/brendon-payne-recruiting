@@ -4,7 +4,9 @@ title: 'Real Estate Success Variable #3: Systems'
 date: 2017-03-01 00:00:00
 tags:
   - Transaction Management
-excerpt: The third variable is the systems in place to help you succeed.
+excerpt: >-
+  The third variable to success in real estate is the systems in place to help
+  you succeed.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
