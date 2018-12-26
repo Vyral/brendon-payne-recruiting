@@ -4,7 +4,9 @@ title: 'Real Estate Success Variable #2: Contacts'
 date: 2017-02-26 00:00:00
 tags:
   - Transaction Management
-excerpt: The second variable is the contacts you have available to you.
+excerpt: >-
+  The first variable to success in real estate is the contacts you have
+  available to you.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
