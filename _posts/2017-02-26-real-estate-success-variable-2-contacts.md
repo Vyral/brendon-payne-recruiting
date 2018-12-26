@@ -5,7 +5,7 @@ date: 2017-02-26 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  The first variable to success in real estate is the contacts you have
+  The second variable to success in real estate is the contacts you have
   available to you.
 enclosure:
 pullquote:
