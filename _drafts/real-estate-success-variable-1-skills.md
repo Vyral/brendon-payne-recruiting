@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Real Estate Success Variable #1: Skills'
-date:
+date: 2017-02-24 00:00:00
 tags:
-excerpt:
+  - Transaction Management
+excerpt: The first variable to success in real estate is your skills.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -12,6 +13,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+Today I want to talk to you about different variables related to success in real estate. The first variable is skills you need to learn.
