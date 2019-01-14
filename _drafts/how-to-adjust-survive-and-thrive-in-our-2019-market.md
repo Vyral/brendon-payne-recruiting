@@ -20,7 +20,7 @@ youtube_code: Ty5Ghy5IhJo
 
 {% include youtube.html %}
 
-If you’re wondering if 2019 is a good time to get into real estate or you’re wondering how you can grow your real estate business this year, I have good news for you.
+<center>If you’re wondering if 2019 is a good time to get into real estate or you’re wondering how you can grow your real estate business this year, I have good news for you.</center>
 
 2019 is a great time to get into real estate, and if you already work in this business, it’s also a great time to grow your career. However, in order to take these important steps, there are a few key points you need to remember that I’ll share with you today.
 
