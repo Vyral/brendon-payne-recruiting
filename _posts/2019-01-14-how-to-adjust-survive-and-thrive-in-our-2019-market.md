@@ -5,9 +5,8 @@ date: 2019-01-14 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  If you’re wondering if 2019 is a good time to get into real estate or you’re
-  wondering how you can grow your real estate business this year, I have good
-  news for you.
+  If you’re wondering if 2019 is a good time to get into real estate, I have
+  good news for you.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brendon+Payne/Videos/Charleston+Expert+Advisors+-+How+to+Adjust%2C+Survive%2C+and+Thrive+in+Our+2019+Market.mp4
 pullquote:
@@ -22,7 +21,7 @@ youtube_code: Ty5Ghy5IhJo
 
 <center><em>If you&rsquo;re wondering if 2019 is a good time to get into real estate or you&rsquo;re wondering how you can grow your real estate business this year, I have good news for you.</em></center>
 
-&nbsp;
+ 
 
 2019 is a great time to get into real estate, and if you already work in this business, it’s also a great time to grow your career. However, in order to take these important steps, there are a few key points you need to remember that I’ll share with you today.
 
