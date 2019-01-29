@@ -21,7 +21,7 @@ youtube_code: QZ0fLWOj4JY
 
 {% include youtube.html %}
 
-You can choose who you work with. Finding which side best suits you, however, is a learning process.
+<center>You can choose who you work with. Finding which side best suits you, however, is a learning process.</center>
 
 Here’s a question a lot of agents ask themselves: **Should I be a buyer’s agent or a listing agent?**
 
