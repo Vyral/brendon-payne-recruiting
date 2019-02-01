@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buyer’s Agent Vs. Listing Agent: Which Should You Be?'
+title: 'Buyer’s Agent vs. Listing Agent: Which Should You Be?'
 date: 2019-01-29 00:00:00
 tags:
   - Transaction Management
@@ -23,7 +23,7 @@ youtube_code: QZ0fLWOj4JY
 
 <center><em>You can choose who you work with. Finding which side best suits you, however, is a learning process.</em></center>
 
-&nbsp;
+ 
 
 Here’s a question a lot of agents ask themselves: **Should I be a buyer’s agent or a listing agent?**
 
