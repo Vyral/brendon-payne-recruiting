@@ -20,7 +20,7 @@ youtube_code: d7vUuI2jWEY
 
 {% include youtube.html %}
 
-You can make 2019 your best year yet, but you’ll likely need to make some changes. Here are the areas to look at.
+<center>You can make 2019 your best year yet, but you’ll likely need to make some changes. Here are the areas to look at.</center>
 
 Many agents speak with me about their biggest goal: growing their business. However, they’re often concerned that they don’t have the foundation needed to accomplish these goals. If this sounds like you, there are a few things you need to look at in order to set yourself up for success.
 
