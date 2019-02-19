@@ -15,16 +15,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/brendon-payne-jan-2-ss-np.jpg
-youtube_code: UOIYc25GbWo
+youtube_code: ok55Et0xFuo
 ---
 
 {% include youtube.html %}
 
 <center><em>You can make 2019 your best year yet, but you&rsquo;ll likely need to make some changes. Here are the areas to look at.</em></center>
 
- 
+&nbsp;
 
-Many agents speak with me about their biggest goal: growing their business. However, they’re often concerned that they don’t have the foundation needed to accomplish these goals. If this sounds like you, there are a few things you need to look at in order to set yourself up for success.
+Many agents speak with me about their biggest goal: growing their business. However, they’re often concerned that they don’t have the foundation needed to accomplish this goal. If this sounds like you, there are a few things you need to look at in order to set yourself up for success.
 
 **First, do you have a clear picture of what needs to change in your business?** If you continue to do what you’ve done in the past, you’ll receive the same results you had before. There can be growth in the market that affects business, but your own actions enact the biggest changes. So, do you know what your business needs to look like in order to grow? Having a desire to grow is a great start, but it doesn’t get you results. You instead need to look at what you must change in order to foster growth.
 
@@ -35,7 +35,7 @@ Many agents speak with me about their biggest goal: growing their business. Howe
 **Third, are you in an environment that allows you to grow?** If the rest of the people you work with don’t have a growth mindset, it’s much harder for you, yourself, to grow. It’s not necessarily about the business model you’re in, but there’s a direct correlation between the amount of support agents have and the amount of leadership involvement. So if you don’t have that involvement and you’re trying to grow, you only have a few options:
 
 * You can grow by default as appreciation increases and the market changes, but you’re simply waiting on something else to enact growth.
-* You can take initiative and search for a new environment. This can be effective, but it can take both time and money to find a new place.
+* You can take the initiative and search for a new environment. This can be effective, but it can take both time and money to find a new place.
 * You can join the right environment—one that is conducive to your growth and gives you the resources and support to do so.
 
 By looking at how these three questions pertain to your situation, you can set in motion a plan to make 2019 your best year yet as an agent. If you have any questions or need further information, feel free to reach out to me. I look forward to hearing from you soon.
