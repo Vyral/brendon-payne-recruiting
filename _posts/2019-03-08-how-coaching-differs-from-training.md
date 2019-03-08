@@ -18,7 +18,9 @@ youtube_code: ysKPt6wVbvo
 
 {% include youtube.html %}
 
-<center>There are key difference between coaching and training that you need to be aware of.</center>
+<center><em>There are key difference between coaching and training that you need to be aware of.</em></center>
+
+&nbsp;
 
 What’s the difference between coaching and training? Today I’ll answer that questions for you.
 
