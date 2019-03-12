@@ -5,7 +5,7 @@ date: 2019-03-08 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  There are key difference between coaching and training that you need to be
+  There are key differences between coaching and training that you need to be
   aware of.
 enclosure:
 pullquote:
@@ -18,11 +18,11 @@ youtube_code: ysKPt6wVbvo
 
 {% include youtube.html %}
 
-<center><em>There are key difference between coaching and training that you need to be aware of.</em></center>
+<center><em>There are key differences between coaching and training that you need to be aware of.</em></center>
 
 &nbsp;
 
-What’s the difference between coaching and training? Today I’ll answer that questions for you.
+What’s the difference between coaching and training? Today I’ll answer that question for you.
 
 **For your convenience, I’ve provided timestamps of the video above so that you can jump ahead to different sections at your leisure:**
 
