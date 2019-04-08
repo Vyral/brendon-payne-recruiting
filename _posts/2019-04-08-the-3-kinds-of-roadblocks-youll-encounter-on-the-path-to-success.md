@@ -21,19 +21,21 @@ youtube_code: 2tFr-GlVMJw
 
 {% include youtube.html %}
 
-<center>There are three main categories that the problems we face as agents will always fall into, and today I’d like to share some insight on how to approach and eliminate these roadblocks.</center>
+<center><em>There are three main categories that the problems we face as agents will always fall into, and today I&rsquo;d like to share some insight on how to approach and eliminate these roadblocks.</em></center>
 
-Recently, I’ve been running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.&nbsp;
+&nbsp;
 
-The roadblocks I’m referring to are the challenges agents face every day in their careers that get in the way of their success. Some of these challenges are external, but others come from within.&nbsp;
+Recently, I’ve been running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.
+
+The roadblocks I’m referring to are the challenges agents face every day in their careers that get in the way of their success. Some of these challenges are external, but others come from within.
 
 No matter what the specific issue is, though, **each of these roadblocks will relate to one of three categories: skills, contacts, or systems**.
 
 {% include pullquote.html %}
 
-Let’s dive deeper into each of these categories:&nbsp;
+Let’s dive deeper into each of these categories:
 
-**1. Skills**. Real estate is a skill-based business. Agents grow their businesses based on how effectively they communicate with clients, but there’s a learning curve involved with becoming an effective communicator. The longer that learning curve is, the longer it will take for you to succeed in your business. The agents you’re competing against right now, who may be getting more deals than you for the time being, aren’t inherently better—they’ve just got more skills.&nbsp;
+**1. Skills**. Real estate is a skill-based business. Agents grow their businesses based on how effectively they communicate with clients, but there’s a learning curve involved with becoming an effective communicator. The longer that learning curve is, the longer it will take for you to succeed in your business. The agents you’re competing against right now, who may be getting more deals than you for the time being, aren’t inherently better—they’ve just got more skills.
 
 **2. Contacts**. Real estate, in addition to being a service industry, is also a sales business. And good salespeople know the importance of having contacts. Having a pipeline of leads is essential, but how do you get and keep a constant stream of contacts? Once you pinpoint the problems holding you back from finding, converting, and maintaining a steady flow of leads, you’ll be able to remove those roadblocks.
 
