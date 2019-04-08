@@ -21,7 +21,7 @@ youtube_code: 2tFr-GlVMJw
 
 {% include youtube.html %}
 
-There are three main categories that the problems we face as agents will always fall into, and today I’d like to share some insight on how to approach and eliminate these roadblocks.
+<center>There are three main categories that the problems we face as agents will always fall into, and today I’d like to share some insight on how to approach and eliminate these roadblocks.</center>
 
 Recently, I’ve been running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.&nbsp;
 
