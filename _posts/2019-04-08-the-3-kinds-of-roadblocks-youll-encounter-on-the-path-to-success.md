@@ -5,9 +5,8 @@ date: 2019-04-08 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  There are three main categories that the problems we face as agents will
-  always fall into, and today I’d like to share some insight on how to approach
-  and eliminate these roadblocks.
+  Today I’d like to share some insight on how to approach and eliminate
+  roadblocks.
 enclosure:
 pullquote: >-
   You can have all the skills and contacts in the world, but if you don’t have
@@ -23,7 +22,7 @@ youtube_code: 2tFr-GlVMJw
 
 <center><em>There are three main categories that the problems we face as agents will always fall into, and today I&rsquo;d like to share some insight on how to approach and eliminate these roadblocks.</em></center>
 
-&nbsp;
+ 
 
 Recently, I’ve been running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.
 
