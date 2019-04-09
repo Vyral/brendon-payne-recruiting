@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   You can have all the skills and contacts in the world, but if you don’t have
-  the systems to manage them then you still won’t succeed.
+  the systems to manage them, then you still won’t succeed.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,9 +22,9 @@ youtube_code: 2tFr-GlVMJw
 
 <center><em>There are three main categories that the problems we face as agents will always fall into, and today I&rsquo;d like to share some insight on how to approach and eliminate these roadblocks.</em></center>
 
- 
+&nbsp;
 
-Recently, I’ve been running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.
+I've recently begun running a series of meetings within my business on a topic that I believe all of you could benefit from hearing about, as well. I’m talking about the concept of removing roadblocks—but not the kind you’d find in traffic.
 
 The roadblocks I’m referring to are the challenges agents face every day in their careers that get in the way of their success. Some of these challenges are external, but others come from within.
 
@@ -38,7 +38,7 @@ Let’s dive deeper into each of these categories:
 
 **2. Contacts**. Real estate, in addition to being a service industry, is also a sales business. And good salespeople know the importance of having contacts. Having a pipeline of leads is essential, but how do you get and keep a constant stream of contacts? Once you pinpoint the problems holding you back from finding, converting, and maintaining a steady flow of leads, you’ll be able to remove those roadblocks.
 
-**3. Systems**. You can have all the skills and contacts in the world, but if you don’t have the systems to manage them then you still won’t succeed. We all have the same 24 hours in a day, so what’s the difference between an agent selling dozens of home a year and an agent struggling to sell just a handful? It comes down to the systems you use. Getting connected with someone who already has successful systems in place can help you be more efficient in your own business.
+**3. Systems**. You can have all the skills and contacts in the world, but if you don’t have the systems to manage them, then you still won’t succeed. We all have the same 24 hours in a day, so what’s the difference between an agent selling dozens of home a year and an agent struggling to sell just a handful? It comes down to the systems you use. Getting connected with someone who already has successful systems in place can help you be more efficient in your own business.
 
 My challenge to you today is to think of the roadblocks you’re facing in your business, and then consider which of these categories those issues fall into.
 
