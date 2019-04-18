@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’d like to share some insight on how to approach and eliminate
   roadblocks.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brendon+Payne/Videos/Charleston+Expert+Advisors+-+The+3+Kinds+of+Roadblocks+Youll+Encounter+on+the+Path+to+Success.mp4
 pullquote: >-
   You can have all the skills and contacts in the world, but if you don’t have
   the systems to manage them, then you still won’t succeed.
