@@ -16,7 +16,9 @@ youtube_code: nLLkqHHkmVg
 
 {% include youtube.html %}
 
-<center>You profitability in real estate can really be boiled down to three factors. Today we’ll cover what they are and how to successfully deploy them in your business.</center>
+<center><em>You profitability in real estate can really be boiled down to three factors. Today we&rsquo;ll cover what they are and how to successfully deploy them in your business.</em></center>
+
+&nbsp;
 
 If you’ve been keeping an eye on Facebook forums, closed groups, and generally talked-about topics in real estate, you’ve probably noticed that they seem to revolve around one thing: agent profitability.
 
