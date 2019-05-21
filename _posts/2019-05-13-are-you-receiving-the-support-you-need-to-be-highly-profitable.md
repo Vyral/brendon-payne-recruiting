@@ -18,13 +18,11 @@ youtube_code: 13Jfe_70LtQ
 
 <center><em>You profitability in real estate can really be boiled down to three factors. Today we&rsquo;ll cover what they are and how to successfully deploy them in your business.</em></center>
 
-&nbsp;
-
 If you’ve been keeping an eye on Facebook forums, closed groups, and generally talked-about topics in real estate, you’ve probably noticed that they seem to revolve around one thing: agent profitability.
 
 In light of that, I’d like to go over three factors today that can measurably affect agents’ business. Consider if any or all of these factors have impacted your own business and decide if there are options to help you see increased profitability in our competitive market.
 
-**The first factor to consider is the cost of your lead flow**, or the source of your leads. The more people who get into the lead-generation business, the more erosive this is to agents’ bottom line, which leads to this question: Are you dependent on an outside source for your lead generation? If you’re paying someone else for your leads on a monthly- or referral-basis, you don’t have control over the process.
+**The first factor to consider is the cost of your lead flow**, or the source of your leads. There continue to be more outside companies getting into the lead generation business to capture a piece of the agents’ bottom line, which leads to this question: Are you dependent on an outside source for your lead generation? If you’re paying someone else for your leads on a monthly- or referral-basis, you don’t have control over the process. &nbsp;Another consideration is whether your company is helping you by providing qualified leads for you to work so you don’t have to spend money on leads that your competition is also buying.
 
 Obtaining your leads through outsourcing can be done to your advantage, but we also coach our agents to be their own lead generators. Ultimately, it’s the most profitable way of doing business.
 
@@ -42,4 +40,4 @@ Last but not least, **decide if your conversion rates are supporting your profit
 
 If you’d like more information on what we’re doing with our agents to keep them at the top of their game in their productivity and profitability, please reach out and let me know.
 
-I’d also like to note that I’m holding a Production Mastermind on May 22, and I’d love for you to attend. This won’t be a recruiting meeting—it’s a mastermind where I’ll reveal some of the things that we do to assist agents in earning new deals each year. Please reach out to me with questions about this as well. I look forward to seeing you there and I’ll talk to you soon\!
+I’d also like to note that I’m holding a Production Mastermind in June and I’d love for you to attend. This won’t be a recruiting meeting—it’s a mastermind where I’ll reveal some of the things that we do to assist agents in earning new deals each year. Please reach out to me with questions about this as well. I look forward to seeing you there and I’ll talk to you soon\!
