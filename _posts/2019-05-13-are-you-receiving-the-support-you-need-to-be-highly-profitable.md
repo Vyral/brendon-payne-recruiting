@@ -5,7 +5,8 @@ date: 2019-05-13 00:00:00
 tags:
   - Transaction Management
 excerpt: You profitability in real estate can really be boiled down to three factors.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brendon+Payne/Videos/Charleston+Expert+Advisors+-+Are+You+Receiving+the+Support+You+Need+to+Be+Highly+Profitable_.mp4
 pullquote: Consider if any or all of these factors have impacted your own business.
 enclosure_type: video/mp4
 enclosure_time:
