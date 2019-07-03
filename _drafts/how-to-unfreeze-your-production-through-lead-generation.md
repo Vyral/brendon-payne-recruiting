@@ -18,7 +18,7 @@ youtube_code: 8jw4i2n1cLE
 
 {% include youtube.html %}
 
-The market is changing, and us agents need to change with it. Here are a few tips to help you out.
+<center>The market is changing, and us agents need to change with it. Here are a few tips to help you out.</center>
 
 I recently had a conversation with a group of agents revolving the challenges that they’re seeing in their business. One of the ones that was brought up is the difficulty of getting good, qualified leads. Based on that conversation, I want to walk you through how some market changes could be freezing your production right now. **Here’s an outline of my discussion, with timestamps to skip ahead to the section(s) that interest you most:**
 
