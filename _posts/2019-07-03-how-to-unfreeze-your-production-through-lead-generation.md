@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The market is changing, and us agents need to change with it. Here are a few
   tips to help you out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/How+to+Unfreeze+Your+Production+Through+Lead+Generation.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
