@@ -20,7 +20,9 @@ youtube_code: Zr9J268L4kM
 
 {% include youtube.html %}
 
-<center>If you’re looking for ways to increase your SOI and past-client referrals, I have five tips that will help you.</center>
+<center><em>If you&rsquo;re looking for ways to increase your SOI and past-client referrals, I have five tips that will help you.</em></center>
+
+&nbsp;
 
 As your business grows, the best way to continue that growth is by getting more deals from past-client referrals and SOI referrals. Since these are people you’ve already worked with and are familiar with, you know they enjoy working with you and they’ll be talking to other people about their experience.
 
