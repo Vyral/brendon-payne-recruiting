@@ -24,7 +24,7 @@ youtube_code: Zr9J268L4kM
 
 &nbsp;
 
-As your business grows, the best way to continue that growth is by getting more deals from past-client referrals and SOI referrals. Since these are people you’ve already worked with and are familiar with, you know they enjoy working with you and they’ll be talking to other people about their experience.
+As your business grows, the best way to continue that growth is by getting more deals from past client referrals and SOI referrals. Since these are people you’ve already worked with and are familiar with, you know they enjoy working with you and they’ll be talking to other people about their experience.
 
 There are five ways to attract more business from this group:
 
