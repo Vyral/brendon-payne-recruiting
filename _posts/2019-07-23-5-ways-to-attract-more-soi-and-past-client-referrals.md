@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re looking for ways to increase your SOI and past-client referrals, I
   have five tips that will help you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/5+Ways+to+Attract+More+SOI+and+Past-Client+Referrals.mp4
 pullquote: >-
   If you follow these tips and take care of the people who take care of you, you
   will see an increase in referrals and repeat business.
