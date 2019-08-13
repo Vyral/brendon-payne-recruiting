@@ -18,7 +18,9 @@ youtube_code: x_CPmpqXMjs
 
 {% include youtube.html %}
 
-<center>Certain challenges can prevent agents from getting low-cost, high-quality leads, but there are solutions to these challenges.</center>
+<center><em>Certain challenges can prevent agents from getting low-cost, high-quality leads, but there are solutions to these challenges.</em></center>
+
+&nbsp;
 
 Getting low-cost, high-quality leads is the name of the game in real estate. You have to generate leads in order to do business.
 
@@ -26,7 +28,7 @@ There are three reasons agents fail to find low-cost, high-quality leads, and th
 
 Follow along in the video above as I outline the reasons keeping agents from getting low-cost, high-quality leads and how my team solves this problem. **For your convenience, I’ve provided timestamps so you can skip ahead to various sections:**
 
-1:12 - Reason \#1: There hasn’t been any investment&nbsp;<br>2:03 - Reason \#2: The company doesn’t invest specifically in agent training&nbsp;<br>2:56 - Reason \#3: The company and/or agent hasn’t invested in the systems&nbsp;<br>4:20 - How we get around these challenges to provide low-cost, high-quality leads to agents and make sure they convert them&nbsp;<br>5:07 - We developed our own platforms&nbsp;<br>5:54 - We coach and train our agents so that their conversion is high&nbsp;<br>6:17 - We have systems in place&nbsp;<br>7:17 - Wrapping things up
+1:12 - Reason \#1: There hasn’t been any investment<br>2:03 - Reason \#2: The company doesn’t invest specifically in agent training<br>2:56 - Reason \#3: The company and/or agent hasn’t invested in the systems<br>4:20 - How we get around these challenges to provide low-cost, high-quality leads to agents and make sure they convert them<br>5:07 - We developed our own platforms<br>5:54 - We coach and train our agents so that their conversion is high<br>6:17 - We have systems in place<br>7:17 - Wrapping things up
 
 {% include pullquote.html %}
 
