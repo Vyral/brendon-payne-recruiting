@@ -18,7 +18,7 @@ youtube_code: x_CPmpqXMjs
 
 {% include youtube.html %}
 
-Certain challenges can prevent agents from getting low-cost, high-quality leads, but there are solutions to these challenges.
+<center>Certain challenges can prevent agents from getting low-cost, high-quality leads, but there are solutions to these challenges.</center>
 
 Getting low-cost, high-quality leads is the name of the game in real estate. You have to generate leads in order to do business.
 
