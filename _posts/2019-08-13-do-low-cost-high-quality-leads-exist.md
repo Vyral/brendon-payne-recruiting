@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Certain challenges can prevent agents from getting low-cost, high-quality
   leads, but there are solutions to these challenges.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Do+Low-Cost%2C+High-Quality+Leads+Exist_.mp4
 pullquote: We developed our own platforms in order to generate leads.
 enclosure_type: video/mp4
 enclosure_time:
