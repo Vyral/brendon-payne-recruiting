@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: >-
   Today we’ll discuss the myths, lies, and scams that real estate agents are
-  told that prevent them from getting to the next level in their business.
+  told that prevent them from getting to the next level.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
