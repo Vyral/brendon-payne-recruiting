@@ -18,7 +18,7 @@ youtube_code: Wo2CkgM9fx4
 
 {% include youtube.html %}
 
-<center><em>Today we’ll discuss the myths, lies, and scams that real estate agents are told that prevent them from getting to the next level in their business.</em></center>
+<center><em>Today we&rsquo;ll discuss the myths, lies, and scams that real estate agents are told that prevent them from getting to the next level in their business.</em></center>
 
 <br>My business partner Greg Harrelson and I have spoken with many agents over the years in our efforts to attract them to our group and help them achieve top-level production. Many of those agents are brand-new licensees with no habits yet, and others came from other companies with habits that only enabled them to get to somewhere around 12 or 13 transactions before they hit a plateau. They just had no idea how to get to the next level.
 
