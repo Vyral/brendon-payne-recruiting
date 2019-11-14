@@ -26,4 +26,4 @@ Today, we had a conversation about those things that agents are told in their tr
 
 **You can listen to our discussion in the video above to learn what myths, lies, and scams agents are being taught, how those misconceptions are preventing their growth, and what can be done to form productive business habits and mentalities that will ultimately take their business to the next level.**
 
-As always, if you have any questions about your business or what it takes to become a top-level producer in the real estate industry, feel free to reach out to expert the Charleston Expert Advisors. We’d love to hear from you.
+As always, if you have any questions about your business or what it takes to become a top-level producer in the real estate industry, feel free to reach out to the Charleston Expert Advisors. We’d love to hear from you.
