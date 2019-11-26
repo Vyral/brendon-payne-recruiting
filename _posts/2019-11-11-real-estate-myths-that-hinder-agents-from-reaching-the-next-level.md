@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today we’ll discuss the myths, lies, and scams that real estate agents are
   told that prevent them from getting to the next level.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Real+Estate+Myths+that+Hinder+Agents+From+Reaching+the+Next+Level.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
