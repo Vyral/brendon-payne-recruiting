@@ -20,7 +20,9 @@ youtube_code: oUWzOB2xJXA
 
 {% include youtube.html %}
 
-We just finished conducting business reviews with our agents for 2020, which helps them see where clients are coming from and set goals for the new year. During our discussions, we came across an important topic: why dabbling doesn’t work anymore in real estate.
+<center><em>It’s no longer viable to be a Jack-of-all-trades in real estate. Here’s why you need to focus on your strengths instead.</em></center>
+
+<br>We just finished conducting business reviews with our agents for 2020, which helps them see where clients are coming from and set goals for the new year. During our discussions, we came across an important topic: why dabbling doesn’t work anymore in real estate.
 
 Ten years ago, agents could have business coming from many different places. In recent years, though, real estate has changed. If you simply dabble in each pillar of your business, you won’t see the results you’d find in the past.
 
