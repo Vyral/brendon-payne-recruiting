@@ -20,7 +20,7 @@ youtube_code: oUWzOB2xJXA
 
 {% include youtube.html %}
 
-<center><em>It’s no longer viable to be a Jack-of-all-trades in real estate. Here’s why you need to focus on your strengths instead.</em></center>
+<center><em>It&rsquo;s no longer viable to be a Jack-of-all-trades in real estate. Here&rsquo;s why you need to focus on your strengths instead.</em></center>
 
 <br>We just finished conducting business reviews with our agents for 2020, which helps them see where clients are coming from and set goals for the new year. During our discussions, we came across an important topic: why dabbling doesn’t work anymore in real estate.
 
