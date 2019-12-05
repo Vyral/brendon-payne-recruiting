@@ -5,7 +5,7 @@ date: 2019-12-03 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  It’s no longer viable to be a Jack-of-all-trades in real estate. Here’s why
+  It’s no longer viable to be a jack-of-all-trades in real estate. Here’s why
   you need to focus on your strengths instead.
 enclosure:
 pullquote: >-
@@ -20,7 +20,7 @@ youtube_code: oUWzOB2xJXA
 
 {% include youtube.html %}
 
-<center><em>It&rsquo;s no longer viable to be a Jack-of-all-trades in real estate. Here&rsquo;s why you need to focus on your strengths instead.</em></center>
+<center><em>It&rsquo;s no longer viable to be a jack-of-all-trades in real estate. Here&rsquo;s why you need to focus on your strengths instead.</em></center>
 
 <br>We just finished conducting business reviews with our agents for 2020, which helps them see where clients are coming from and set goals for the new year. During our discussions, we came across an important topic: why dabbling doesn’t work anymore in real estate.
 
@@ -28,7 +28,7 @@ Ten years ago, agents could have business coming from many different places. In 
 
 While it’s great to have multiple pipelines for business, you need to flesh each one out. In other cases, it may be better to scale back a bit and place your focus on one or two areas.
 
-**Nowadays, consumers are getting more information than ever before**. Instead of you being a person’s sole agent, people can get information from dozens of different Realtors. If you aren’t staying on the top of your clients’ minds and aren’t adding value, you can easily fall by the wayside.
+**Nowadays, consumers are getting more information than ever before**. People can get information from dozens of different Realtors—if you aren’t staying on the top of your clients’ minds and aren’t adding value, you can easily fall by the wayside.
 
 {% include pullquote.html %}
 
