@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s no longer viable to be a jack-of-all-trades in real estate. Here’s why
   you need to focus on your strengths instead.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Why+Agents+Cant+Just+Dabble+in+Real+Estate+Anymore.mp4
 pullquote: >-
   Dabbling in many different areas means you aren’t investing yourself fully
   into anything.
