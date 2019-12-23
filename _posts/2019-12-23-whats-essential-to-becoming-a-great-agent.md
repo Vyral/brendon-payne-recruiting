@@ -27,7 +27,9 @@ youtube_code: 'https://youtu.be/FZnUbyCPF-I'
 
 {% include youtube.html %}
 
-We got a ton of feedback recently on a video that my partner Greg Harrelson put out a few weeks back. The video was all about the myths and scams that agents are using to run their business, and one thing that people were curious about was my comment that being a great agent has nothing to do with your personality.
+<center><em>There are four things that all successful real estate agents need to have.</em></center>
+
+<br>We got a ton of feedback recently on a video that my partner Greg Harrelson put out a few weeks back. The video was all about the myths and scams that agents are using to run their business, and one thing that people were curious about was my comment that being a great agent has nothing to do with your personality.
 
 It’s certainly great to have one, but there’s no correlation between personality and someone who runs a successful real estate business. However, **there are four things that do matter and will make you a successful agent:**
 
