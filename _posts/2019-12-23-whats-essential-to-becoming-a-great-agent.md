@@ -7,12 +7,7 @@ tags:
   - Transaction Management
   - Listing Presentation
 excerpt: >-
-  There was a ton of great feedback on our recent video about the myths and
-  scams that some agents are using to run their business. In it, I talked about
-  how being a great agent has nothing to do with your personality, and I wanted
-  to expand on that today. Although personality doesn’t play a huge factor,
-  there are four things that do, and they will determine whether you will be a
-  successful agent or not. To learn more, watch this short video.
+  There are four things that all successful real estate agents need to have.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/4+Keys+To+Agent+Success+and+It's+Not+Personality.mp4
 pullquote: >-
@@ -27,7 +22,9 @@ youtube_code: 'https://youtu.be/FZnUbyCPF-I'
 
 {% include youtube.html %}
 
-We got a ton of feedback recently on a video that my partner Greg Harrelson put out a few weeks back. The video was all about the myths and scams that agents are using to run their business, and one thing that people were curious about was my comment that being a great agent has nothing to do with your personality.
+<center><em>There are four things that all successful real estate agents need to have.</em></center>
+
+<br>We got a ton of feedback recently on a video that my partner Greg Harrelson put out a few weeks back. The video was all about the myths and scams that agents are using to run their business, and one thing that people were curious about was my comment that being a great agent has nothing to do with your personality.
 
 It’s certainly great to have one, but there’s no correlation between personality and someone who runs a successful real estate business. However, **these four things *do* matter and will make you a successful agent:**
 
