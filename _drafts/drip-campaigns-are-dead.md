@@ -20,7 +20,9 @@ youtube_code: KU_R0Tp8EeY
 
 {% include youtube.html %}
 
-Today I’m addressing a topic I still see agents posting about on forums and bulletin boards. Every agent’s goal is to generate more business, but there’s a lot of discussion about drip marketing campaigns—a trusted method of the recent past—and their place in an agent’s repertoire.
+<center><em>Relying solely on drip campaigns to generate business from your database is a waste and here’s why.</em></center>
+
+<br>Today I’m addressing a topic I still see agents posting about on forums and bulletin boards. Every agent’s goal is to generate more business, but there’s a lot of discussion about drip marketing campaigns—a trusted method of the recent past—and their place in an agent’s repertoire.
 
 If you’re trying to craft a quality drip campaign to nurture your database and generate your business, you are way behind the curve. Simply put, drip campaigns are dead.
 
