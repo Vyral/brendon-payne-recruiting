@@ -20,7 +20,7 @@ youtube_code: KU_R0Tp8EeY
 
 {% include youtube.html %}
 
-<center><em>Relying solely on drip campaigns to generate business from your database is a waste and here’s why.</em></center>
+<center><em>Relying solely on drip campaigns to generate business from your database is a waste and here&rsquo;s why.</em></center>
 
 <br>Today I’m addressing a topic I still see agents posting about on forums and bulletin boards. Every agent’s goal is to generate more business, but there’s a lot of discussion about drip marketing campaigns—a trusted method of the recent past—and their place in an agent’s repertoire.
 
