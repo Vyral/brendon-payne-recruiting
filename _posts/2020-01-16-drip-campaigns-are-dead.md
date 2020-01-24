@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Relying solely on drip campaigns to generate business from your database is a
   waste and here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Drip+Campaigns+Are+Dead.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
