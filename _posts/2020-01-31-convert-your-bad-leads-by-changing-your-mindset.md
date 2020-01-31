@@ -19,7 +19,7 @@ youtube_code: Iwu0ItUT2Qw
 
 {% include youtube.html %}
 
-<center><em>The key to freeing yourself from the ‘good lead, bad lead’ mindset is to understand the difference between contacts and leads.</em></center>
+<center><em>The key to freeing yourself from the &lsquo;good lead, bad lead&rsquo; mindset is to understand the difference between contacts and leads.</em></center>
 
 <br>Nowadays, it seems there is an abundance of companies trying to sell leads to agents - an almost tenfold increase from the last five or six years. I’ve seen agents get picky about their leads, dismissing outright ones they deem ‘bad.’ What if I told you there’s no such thing as a bad lead? At least, not in the way you might think. Today I’m sharing how to convert contacts into leads using the right skill set and systems.
 
