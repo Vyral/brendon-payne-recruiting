@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   The key to freeing yourself from the ‘good lead, bad lead’ mindset is to
   understand the difference between contacts and leads.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Convert+Your+Bad+Leads+by+Changing+Your+Mindset.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
