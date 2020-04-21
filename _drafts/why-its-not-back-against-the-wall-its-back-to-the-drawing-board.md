@@ -18,7 +18,9 @@ youtube_code: fIbntm7Y0nw
 
 {% include youtube.html %}
 
-We’re well into this global pandemic, and though with each passing day we inch toward a firmer grasp of our new normal, so many questions still loom—especially when it comes to sustaining a business Today we’re sharing more thoughts on how to not only weather this storm, but also how to set your business in such a way that you’ll thrive on the other side of it.
+<center><em>It’s easy to find excuses to abandon our routines, but here’s why we need to focus on them now more than ever.</em></center>
+
+<br>We’re well into this global pandemic, and though with each passing day we inch toward a firmer grasp of our new normal, so many questions still loom—especially when it comes to sustaining a business Today we’re sharing more thoughts on how to not only weather this storm, but also how to set your business in such a way that you’ll thrive on the other side of it.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
