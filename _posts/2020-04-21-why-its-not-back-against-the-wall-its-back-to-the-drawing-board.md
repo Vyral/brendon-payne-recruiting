@@ -18,7 +18,7 @@ youtube_code: fIbntm7Y0nw
 
 {% include youtube.html %}
 
-<center><em>It’s easy to find excuses to abandon our routines, but here’s why we need to focus on them now more than ever.</em></center>
+<center><em>It&rsquo;s easy to find excuses to abandon our routines, but here&rsquo;s why we need to focus on them now more than ever.</em></center>
 
 <br>We’re well into this global pandemic, and though with each passing day we inch toward a firmer grasp of our new normal, so many questions still loom—especially when it comes to sustaining a business Today we’re sharing more thoughts on how to not only weather this storm, but also how to set your business in such a way that you’ll thrive on the other side of it.
 
