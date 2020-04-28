@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s easy to find excuses to abandon our routines, but here’s why we need to
   focus on them now more than ever.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/Why+Its+Not+Back+Against+the+Wall%2C+Its+Back+to+the+Drawing+Board.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
