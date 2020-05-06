@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Getting Your Family to Buy-In to Your Altered Schedule
-date:
+date: 2020-05-06 20:29:16
 tags:
 excerpt: >-
   Today I’m continuing our series to help all agents excel during these
   turbulent times.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Getting+Your+Family+to+Buy-In+to+Your+Altered+Schedule.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,11 @@ youtube_alternate_image: /uploads/4-24-payne-youtube.jpg
 youtube_code: nr1X4zl2jX8
 ---
 
-{% include youtube.html %}<center>Today I’m continuing our series to help all agents excel during these turbulent times.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Today I&rsquo;m continuing our series to help all agents excel during these turbulent times.&nbsp;</center>
+
+&nbsp;
 
 In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
 
