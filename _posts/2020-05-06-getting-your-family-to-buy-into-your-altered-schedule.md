@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Getting Your Family to Buy-In to Your Altered Schedule
+title: Getting Your Family to Buy Into Your Altered Schedule
 date: 2020-05-06 20:29:00
 tags:
-excerpt: >-
-  Today I’m continuing our series to help all agents excel during these
-  turbulent times.
+excerpt: 'If you''re working from home, your family can keep you accountable.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Getting+Your+Family+to+Buy-In+to+Your+Altered+Schedule.mp4
 pullquote:
@@ -18,13 +16,9 @@ youtube_code: nr1X4zl2jX8
 
 {% include youtube.html %}
 
-<center>Today I&rsquo;m continuing our series to help all agents excel during these turbulent times.&nbsp;</center>
-
-&nbsp;
-
 In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
 
-That’s why if you’re an agent who has a family and is working from you, you should consider a family buy-in plan where your family becomes your accountability partner and support system.
+That’s why if you’re an agent who has a family and is working from home, you should consider a family buy-in plan where your family becomes your accountability partner and support system.
 
 **To learn more, watch the video above or else use the timestamps below to navigate the discussion at your leisure:**
 
