@@ -18,7 +18,9 @@ youtube_code: nr1X4zl2jX8
 
 <center><em>If you're working from home, your family can keep you accountable.</em></center>
 
-<br>In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
+<br><br>While we know that things are beginning to "open up" more in our market, it's likely that you may still be working from home.
+
+In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
 
 That’s why if you’re an agent who has a family and is working from home, you should consider a family buy-in plan where your family becomes your accountability partner and support system.
 
