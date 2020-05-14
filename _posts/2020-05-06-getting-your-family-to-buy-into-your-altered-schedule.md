@@ -5,7 +5,7 @@ date: 2020-05-06 20:29:00
 tags:
 excerpt: 'If you''re working from home, your family can keep you accountable.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/Getting+Your+Family+to+Buy-In+to+Your+Altered+Schedule.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/Getting+Your+Family+to+Buy+Into+Your+Altered+Schedule.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
