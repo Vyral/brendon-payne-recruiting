@@ -3,6 +3,7 @@ layout: post
 title: Getting Your Family to Buy Into Your Altered Schedule
 date: 2020-05-06 20:29:00
 tags:
+  - Transaction Management
 excerpt: 'If you''re working from home, your family can keep you accountable.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/Getting+Your+Family+to+Buy+Into+Your+Altered+Schedule.mp4
