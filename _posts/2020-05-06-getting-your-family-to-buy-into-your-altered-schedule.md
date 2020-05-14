@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/4-24-payne-youtube.jpg
-youtube_code: nr1X4zl2jX8
+youtube_code: W3gT2pRiYDw
 ---
 
 {% include youtube.html %}
