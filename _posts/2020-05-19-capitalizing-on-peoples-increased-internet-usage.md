@@ -19,7 +19,7 @@ youtube_code: opRSHwD_LDo
 
 {% include youtube.html %}
 
-<center><em>If you’re not taking this time to leverage your presence on the internet, you’re missing opportunities.</em></center>
+<center><em>If you&rsquo;re not taking this time to leverage your presence on the internet, you&rsquo;re missing opportunities.</em></center>
 
 <br>Many people across the country are on lockdown due to the coronavirus, and we know that if people are spending record amounts of time at home, they’ll probably wind up surfing the internet to keep themselves occupied or find solutions to their problems. We also know that many of those people are surfing the web on their smartphones. To capitalize on people’s increased time at home in front of their computers or on their phones, you need to have a strong internet presence.
 
