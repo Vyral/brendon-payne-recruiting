@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitalizing on People’s Increased Internet Usage
+title: How Can You Capitalize on Increased Internet Usage?
 date: 2020-05-19 00:00:00
 tags:
   - Lead Conversion
