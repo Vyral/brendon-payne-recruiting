@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re not taking this time to leverage your presence on the internet,
   you’re missing opportunities.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/How+Can+You+Capitalize+on+Increased+Internet+Usage_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
