@@ -31,7 +31,7 @@ s
 
 <p>There are companies that talk the great talk but have never walked the walk. Our resources, systems, and coaching programs have resulted in multiple 100+ deals per year producers making more income than they ever imagined. <strong>At any given time, you will see that we have more agents in the top 5, top 10 or top 50 producing agents in the marketplace than anybody else.</strong></p>
 
-<p>We help our agents by teaching them a proven system that is predictable and duplicatable which leads to sustainability. We have the highest Per Person Production of any company or corporation in the marketplace…basically, our agents earn more net income.</p>
+<p>We help our agents by teaching them a proven system that is predictable and duplicatable which leads to sustainability. We have the highest Per Person Production of any company or corporation in the marketplace; basically, our agents earn more net income.</p>
 
 <p><strong>If you join our team, you’ll get:</strong>
 <ul class="indent">
