@@ -18,7 +18,9 @@ youtube_code: SIFHooEPA_c
 
 {% include youtube.html %}
 
-It’s in times like these that true leaders step up and shine—not for themselves, but for others. Good leaders bring light to a business and help others navigate through the challenges they’re facing. Greg Harrelson joined me today to talk about how to be a great leader during these uncertain times, as well as how to harness the power of collaboration.
+<center><em>Today Greg Harrelson and I had a great conversation about the importance of good leadership during times of uncertainty.</em></center>
+
+<br>It’s in times like these that true leaders step up and shine—not for themselves, but for others. Good leaders bring light to a business and help others navigate through the challenges they’re facing. Greg Harrelson joined me today to talk about how to be a great leader during these uncertain times, as well as how to harness the power of collaboration.
 
 **To hear our full discussion, refer to the video above or else use the timestamps below to navigate our conversation at your leisure:**
 
