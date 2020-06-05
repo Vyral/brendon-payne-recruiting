@@ -20,12 +20,12 @@ permalink: /join-our-team/
 <p>We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. You might lack the training, coaching, and mentoring to get you there.</p>
 
 <p><strong>The real estate industry as a whole has failed to provide agents with the coaching, systems, and resources necessary to build a career worth having.</strong> New agents are given a license and told to go make something happen without having the tools or guidance to assure they earn an acceptable income. They have no idea which direction to turn and often get tempted to follow all of the get-rich-quick products that are pushed on them with no success.</p>
-
+s
 <p>Have you noticed all the shiny objects that are presented to you on how to go build a business without putting in much effort? Or, have you been with a company that promised the world and delivered nothing and you are now having to figure out everything on your own? <strong>Our mission is to help our agents build a career worth having and our results show we can do just that.</strong></p>
 
 <p>Going into real estate can feel either like the best or the worst career move you’ve ever made. So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent.</p>
 
-<p><strong>My name is Brendon Payne, and my partner, Greg Harrelson, and I have been passionately developing real estate top producers for 20+ years. Not only have we personally sold hundreds of properties per year, but we have also helped numerous agents sell 100, 200 and more properties per year by coaching them on the systems and strategies that it takes to build a great business. No matter what your goals are, whether it be 20 deals per year or 300, we have the experience and resources to get you there.</p>
+<p><strong>My name is Brendon Payne, and my partner, Greg Harrelson, and I have been passionately developing real estate top producers for 20+ years</strong>. Not only have we personally sold hundreds of properties per year, but we have also helped numerous agents sell 100, 200 and more properties per year by coaching them on the systems and strategies that it takes to build a great business. No matter what your goals are, whether it be 20 deals per year or 300, we have the experience and resources to get you there.</p>
 
 <p>I am looking for an agent that has the desire to take their business to the next level—an agent who knows they can do more but needs to be pointed in the right direction so they can reach their goals with less resistance. I am looking for an agent that wants to be a true professional, and someone who is competitive and is committed to doing things the right way.</p>
 
