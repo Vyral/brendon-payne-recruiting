@@ -20,7 +20,7 @@ permalink: /join-our-team/
 <p>We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. You might lack the training, coaching, and mentoring to get you there.</p>
 
 <p><strong>The real estate industry as a whole has failed to provide agents with the coaching, systems, and resources necessary to build a career worth having.</strong> New agents are given a license and told to go make something happen without having the tools or guidance to assure they earn an acceptable income. They have no idea which direction to turn and often get tempted to follow all of the get-rich-quick products that are pushed on them with no success.</p>
-s
+
 <p>Have you noticed all the shiny objects that are presented to you on how to go build a business without putting in much effort? Or, have you been with a company that promised the world and delivered nothing and you are now having to figure out everything on your own? <strong>Our mission is to help our agents build a career worth having and our results show we can do just that.</strong></p>
 
 <p>Going into real estate can feel either like the best or the worst career move you’ve ever made. So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent.</p>
