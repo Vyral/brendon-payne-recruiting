@@ -26,4 +26,4 @@ youtube_code: SIFHooEPA_c
 
 1:03 - How Greg has stayed grounded and focused during these chaotic times<br>3:22 - How collaboration can help you weather adversity<br>4:53 - Recognizing the importance of all the different relationships within the industry<br>7:09 - Embracing working from home, rather than fighting it<br>8:24 - What obligations does Greg set for his agents?<br>9:22 - Channeling past experiences with challenges to combat unprecedented issues<br>10:21 - A true leader finds a safe path for real estate agents to succeed
 
-Today’s conversation ended with a challenge: If you’re in a leadership position, let’s take this time to step up and provide guidance and certainty to our agents. If you have any questions or need any advice, don’t hesitate to reach out to us.
+Today’s conversation ended with a challenge: If you’re in a leadership position, let’s take this time to step up and provide guidance and certainty to our agents. If you have questions or need any advice, don’t hesitate to reach out to us.
