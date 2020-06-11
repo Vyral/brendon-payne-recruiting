@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today Greg Harrelson and I had a great conversation about the importance of
   good leadership during times of uncertainty.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/The+Importance+of+Leadership+During+Uncertain+Times.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
