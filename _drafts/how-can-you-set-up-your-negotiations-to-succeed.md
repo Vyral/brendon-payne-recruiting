@@ -17,7 +17,9 @@ youtube_code: VaebZ6ny1tw
 
 {% include youtube.html %}
 
-What has changed in the way we present and negotiate offers? There are changes in the mortgage business daily, so knowing ahead of time what’s needed to bring a deal together is crucial. Today Greg Harrelson discussed what it takes to navigate this pandemic-affected market, from having a point-of-contact in the mortgage industry who can provide up-to-date insights, to coaching sellers, buyers, and buyer’s agents through a variety of emotions.
+<center><em>Here’s what it takes to calm nerves and bring a deal together these days.</em></center>
+
+<br>What has changed in the way we present and negotiate offers? There are changes in the mortgage business daily, so knowing ahead of time what’s needed to bring a deal together is crucial. Today Greg Harrelson discussed what it takes to navigate this pandemic-affected market, from having a point-of-contact in the mortgage industry who can provide up-to-date insights, to coaching sellers, buyers, and buyer’s agents through a variety of emotions.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to skip to topics that interest you most:**
 
