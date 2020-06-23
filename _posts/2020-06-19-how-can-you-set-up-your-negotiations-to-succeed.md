@@ -25,4 +25,4 @@ youtube_code: VaebZ6ny1tw
 
 1:18 - Dealing with rapid, varied changes in the mortgage industry when sifting through offers<br>5:05 - Working through lowball offers and heightened emotions in our current market<br>6:50 - Putting deals together by being the source of calmness<br>9:22 - Anticipating questions in your presentations and setting proper expectations<br>12:45 - Wrapping things up
 
-As always, if you have any questions about what was discussed in this video or about real estate in general, don’t hesitate to reach out via phone or email. We’re always here to provide real-time strategies that work, even in uncertain, fast-paced times such as these. We look forward to hearing from you.
+As always, if you have any questions about what was discussed in this video or real estate in general, don’t hesitate to reach out via phone or email. We’re always here to provide real-time strategies that work, even in uncertain, fast-paced times such as these. We look forward to hearing from you.
