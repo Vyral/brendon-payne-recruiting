@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Here’s what it takes to calm nerves and bring a deal together these days.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/How+Can+You+Set+Up+Your+Negotiations+to+Succeed_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
