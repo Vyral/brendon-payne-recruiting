@@ -27,3 +27,5 @@ If you’re an agent who’s stuck at home wondering how long these conditions w
 1:21 - Shift your business to accommodate the present situation, but do so knowing that your actions today are always in service of your tomorrow<br>3:43 - The importance of continuing your good lead generation and follow-up habits<br>4:27 - Collaboration is key for the diffusion of good ideas and agent confidence<br>5:35 - Accountability and positivity are needed now more than ever<br>7:07 - Get plugged in somewhere, and stay plugged in<br>8:26 - Applying a positive mindset so you can go out there and fight the fight
 
 If you’re someone who’s feeling unsure about whether you’re going to make it in the real estate business, especially in light of these unusual world events, please give us a call. We’ll hop on a Zoom call, you can vent about what’s been holding you up, and we’ll coach you through it. In the meantime, stay tuned for more videos on how to get through these turbulent times.
+
+&nbsp;
