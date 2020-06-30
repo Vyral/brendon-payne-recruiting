@@ -16,7 +16,7 @@ youtube_code: GDi5BVFVnp0
 
 {% include youtube.html %}
 
-<center><em>My business partner and I discuss the habits that’ll hold you together.</em></center>
+<center><em>My business partner and I discuss the habits that&rsquo;ll hold you together.</em></center>
 
 <br>Everybody has a routine, whether it consists of good or bad habits or whether you even call it your ‘routine’ or not. Whatever yours was, it likely shifted in the wake of COVID-19; **the health crisis hasn’t ground our industry to a halt**, but it has changed consumer demands and various market trends.
 
