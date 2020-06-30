@@ -16,7 +16,9 @@ youtube_code: GDi5BVFVnp0
 
 {% include youtube.html %}
 
-Everybody has a routine, whether it consists of good or bad habits or whether you even call it your ‘routine’ or not. Whatever yours was, it likely shifted in the wake of COVID-19; **the health crisis hasn’t ground our industry to a halt**, but it has changed consumer demands and various market trends.
+<center><em>My business partner and I discuss the habits that’ll hold you together.</em></center>
+
+<br>Everybody has a routine, whether it consists of good or bad habits or whether you even call it your ‘routine’ or not. Whatever yours was, it likely shifted in the wake of COVID-19; **the health crisis hasn’t ground our industry to a halt**, but it has changed consumer demands and various market trends.
 
 If you’re an agent who’s stuck at home wondering how long these conditions will last or how much you should be changing your business to accommodate them, it may not be crystal clear what you should be spending your time doing. Today my business partner Greg Harrelson and I will be discussing several things you need to be focusing on, and at least half of them are mental aspects.
 
