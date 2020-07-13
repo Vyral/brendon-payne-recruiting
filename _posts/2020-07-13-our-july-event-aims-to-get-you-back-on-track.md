@@ -41,5 +41,3 @@ Lastly, I want to help agents understand that **real estate doesn’t have to be
 Stay tuned, as we’ll be sending you more info over the coming weeks. The topics of our upcoming program will be the very same topics we coach our agents on daily. They’re types of things we discuss with agents who are doing anywhere from 40 to 100+ deals. If you’re not at that level of production, or if you’re not interested in that type of performance, don’t worry. These topics are designed to help anyone’s business. From mindset advice to technical tricks, you’ll learn things that can only be imparted from those who have produced at a high level.
 
 Go ahead and register here. We look forward to seeing you at the end of the month, but in the meantime, you can always reach out to us via phone or email with any questions you may have\!
-
-&nbsp;
