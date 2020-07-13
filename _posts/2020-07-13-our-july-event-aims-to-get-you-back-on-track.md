@@ -18,7 +18,7 @@ youtube_code: XzLgIipR2PE
 
 {% include youtube.html %}
 
-<center><em>Here’s why 2020 could be ripe with opportunity for those who move quickly.</em></center>
+<center><em>Here&rsquo;s why 2020 could be ripe with opportunity for those who move quickly.</em></center>
 
 <br>With everything going on in the real estate industry and world at large, my business partner Greg Harrelson and I have really stepped up the amount of coaching we’re doing for our agents, and we’ve shared some of those insights with you.
 
