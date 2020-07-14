@@ -24,7 +24,7 @@ youtube_code: XzLgIipR2PE
 
 As we head into the second half of the year, people are wondering how they can finish the year strong and, more importantly, build back the momentum they lost. That’s why **I want to introduce a program that we’ll be leading at the end of this month**; it’s free of charge—all you have to do is register for it.
 
-Over the next couple of weeks, I’ll share more details on some of the program’s topics, but I first want to share a little bit about where this idea came from. There’s some things happening right now as a result of COVID-19 that could alter the outcome of the rest of the year. Surprisingly, these conditions could actually make your 2020 better than you’d expect.
+Over the next couple of weeks, I’ll share more details on some of the program’s topics, but I first want to share a little bit about where this idea came from. There are some things happening right now as a result of COVID-19 that could alter the outcome of the rest of the year. Surprisingly, these conditions could actually make your 2020 better than you’d expect.
 
 Think about what happens this time of year; usually, the kids are out of school, you’re juggling an increased workload, and maybe you’re even trying to squeeze in a vacation. All in all, it’s fair to say that summer can knock us out of our routine. **For the past 60 to 90 days, however, all of us have been shoved out of our normal routine by wild circumstances**. Sure, we’ve likely adopted a new routine fitting of the times, but things haven’t been ‘normal’ since the middle of March.
 
