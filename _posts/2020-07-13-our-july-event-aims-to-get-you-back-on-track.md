@@ -5,7 +5,8 @@ date: 2020-07-13 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s why 2020 could be ripe with opportunity for those who move quickly.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/Our+July+Event+Aims+to+Get+You+Back+on+Track.mp4
 pullquote: >-
   2020 feels so different because  it’s almost as if we’ve started the year
   twice.
