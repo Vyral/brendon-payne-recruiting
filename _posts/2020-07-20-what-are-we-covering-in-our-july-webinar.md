@@ -5,7 +5,8 @@ date: 2020-07-20 00:00:00
 tags:
   - Transaction Management
 excerpt: Our late July webinar will cover many topics. Here’s a peek at one of them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/What+Are+We+Covering+in+Our+July+Webinar_.mp4
 pullquote: Listings are the name of the game in this business.
 enclosure_type: video/mp4
 enclosure_time:
