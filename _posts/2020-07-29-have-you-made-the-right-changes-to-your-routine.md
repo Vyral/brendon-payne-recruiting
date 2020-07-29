@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Made the Right Changes to Your Routine?
-date: 2020-06-30 00:00:00
+date: 2020-07-29 00:00:00
 tags:
   - Transaction Management
 excerpt: My business partner and I discuss the habits that’ll hold you together.
