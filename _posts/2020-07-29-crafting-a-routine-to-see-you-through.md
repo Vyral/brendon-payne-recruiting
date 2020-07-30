@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Made the Right Changes to Your Routine?
+title: Crafting a Routine to See You Through
 date: 2020-07-29 00:00:00
 tags:
   - Transaction Management
