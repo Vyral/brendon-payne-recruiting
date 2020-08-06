@@ -5,7 +5,8 @@ date: 2020-07-29 00:00:00
 tags:
   - Transaction Management
 excerpt: My business partner and I discuss the habits that’ll hold you together.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/Crafting+a+Routine+to+See+You+Through.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
