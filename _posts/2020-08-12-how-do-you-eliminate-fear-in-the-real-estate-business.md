@@ -18,9 +18,9 @@ youtube_code: V_6bSpRliiQ
 
 <center><em>My business partner Greg and I discuss the real definition of courage.</em></center>
 
-<br>Fear is something that exists in the minds of real estate agents and team leaders right now, and there’s no sense in denying it. Whenever there’s something in our society that we can’t control—like what’s happening with the stock market and the coronavirus—it eats away at people, but we must remember that fear itself acts sort of like a virus.
+<br>Fear exists in the minds of real estate agents and team leaders right now, and there’s no sense in denying it. Whenever there’s something in our society that we can’t control—like what’s happening with the stock market and the coronavirus—it eats away at people, but we must remember that fear itself acts sort of like a virus.
 
-Instead of creating an environment in which it can flourish, we should create an environment of action and preparedness. What exactly does that look like in our industry though? That was the subject of a recent conversation between Greg Harrelson and I, which I’m excited to share.
+Instead of creating an environment in which it can flourish, we should create an environment of action and preparedness. What exactly does that look like in our industry though? That was the subject of a recent conversation between Greg Harrelson and me, which I’m excited to share.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
@@ -28,7 +28,7 @@ Instead of creating an environment in which it can flourish, we should create an
 
 2:50 — You’re not scared of the current circumstances, you’re afraid of future unknowns
 
-4:00 — Log your fears: Take them out of your head and onto paper
+4:00 — Log your fears: Take them out of your head and put them onto paper
 
 5:00 — When you start executing the plan you crafted to address your fears, you can progress
 
@@ -36,6 +36,6 @@ Instead of creating an environment in which it can flourish, we should create an
 
 7:27 — Wrapping up today’s topic
 
-Hopefully, this information at least creates the spark you needed to flip the switch and stop being paralyzed by fear. Remember: The opposite of fear is courage, and the courage to move forward comes from knowing where you need to make those first steps.
+Hopefully, this information at least creates the spark you needed to **flip the switch and stop being paralyzed by fear**. Remember: The opposite of fear is courage, and the courage to move forward comes from knowing where you need to make those first steps.
 
-As always, if there’s anything we can help you with during these uncertain times, please reach out by phone or email. We love any opportunity to share the strategies and mindsets we’ve successfully implemented and empower professionals in our industry.
+As always, if there’s anything we can help you with during these uncertain times, please reach out by phone or email. We love any opportunity to share the strategies and mindsets we’ve successfully implemented and to empower professionals in our industry.
