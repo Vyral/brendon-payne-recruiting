@@ -5,7 +5,8 @@ date: 2020-08-12 00:00:00
 tags:
   - Transaction Management
 excerpt: My business partner Greg and I discuss the real definition of courage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/How+Do+You+Eliminate+Fear+in+the+Real+Estate+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
