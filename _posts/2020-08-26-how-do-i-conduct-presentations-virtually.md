@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Listing Presentation
 excerpt: We’re sharing how to conduct your presentations in our new virtual world.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brendon+Payne/Videos/2020/How+Do+I+Conduct+Presentations+Virtually_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
